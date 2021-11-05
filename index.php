@@ -1,6 +1,5 @@
 <?php
-    $var = 'abcde';
-    echo $var[0];
-    echo $var[1];
-    echo $var[4]; 
+    echo 60 * 60;
+    echo '<br>';
+    echo 60 * 60 * 24; 
 ?>
