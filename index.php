@@ -1,5 +1,10 @@
 <?php
-    echo 60 * 60;
-    echo '<br>';
-    echo 60 * 60 * 24; 
+    $var = 1;
+	$var += 12;
+	$var -= 14;
+	$var *= 5;
+	$var /= 7;
+	$var++;
+	$var--;
+	echo $var;
 ?>
